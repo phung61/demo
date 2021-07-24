@@ -4,8 +4,8 @@
     { "id": 2, "CategoryName": "Tin nóng" },
     { "id": 3, "CategoryName": "Sức khỏe" },
     { "id": 4, "CategoryName": "Công nghệ" }
-}
   ],
+  
   "News": [
    {"id": 1 ,"Title" : "Shipper ở TP.HCM nói về trải nghiệm được tiêm vaccine" , "Image" : "", "Brief" : "Có vaccine khiến tôi tự tin hơn khi làm việc và khách hàng cũng sẽ yên tâm hơn.", "Contetnt": "Có vaccine khiến tôi tự tin hơn khi làm việc và khách hàng cũng sẽ yên tâm hơn." ,"PostedDate":"22/07/2021"},
    {"id": 2 ,"Title" : "Xác định nơi tổ chức chung kết Champions League 2021/22" , "Image" : "", "Brief" : "Liên đoàn Bóng đá châu Âu (UEFA) sớm công bố địa điểm tổ chức các trận chung kết Champions League và Europa League", "Contetnt": "Liên đoàn Bóng đá châu Âu (UEFA) sớm công bố địa điểm tổ chức các trận chung kết Champions League và Europa League" ,"PostedDate":"22/07/2021"},
