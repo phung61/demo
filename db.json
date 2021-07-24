@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Category": [
+    { "id": 1, "CategoryName": "Khoa học" },
+    { "id": 2, "CategoryName": "Giáo dục" },
+    { "id": 3, "CategoryName": "Đời sống" },
+    { "id": 4, "CategoryName": "Trường học" },
+    { "id": 5, "CategoryName": "Xã hội" },
+    { "id": 6, "CategoryName": "Âm nhạc" },
+    { "id": 6, "CategoryName": "Thời trang" },
+    { "id": 7, "CategoryName": "Du lịch" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "News": [
+   {"id": 1 ,"Title" : "Phó Trưởng Công an huyện và Trưởng phòng Văn hóa đuối nước tử vong" , "Image" : "", "Brief" : "Tối ngày 21/7, tại đập Chắt, xã Phú Khê (Cẩm Khê, Phú Thọ) Thông tin huyện Cẩm Khê tử vong, một số người đi cùng đoàn may mắn thoát nạn.", "Contetnt": "Sáng 22/7,ê tử vong" ,"PostedDate":"22/07/2021"},
+   {"id": 2 ,"Title" : "Nữ ca sĩ nổi tiếng từ Sao Mai Điểm Hẹn nhưng khổ sở vì ảnh nóng, sau 15 năm mới hé lộ: “Bố mẹ là người đầu tiên nhận được hình của tôi và người đó”" , "Image" : "", "Brief" : "Những chia sẻ mới nhất của nữ ca sĩ này về những biến cố lớn trong đời nhận được rất nhiều sự chú ý từ khán giả.", "Contetnt": "Nguyễn Hồng Nhung là một trong nhữộ cả ảnh nóng.Sau 15 năm kể từ ngày scandal lộ ảnh nóng rầm rộ trên MXH, mới đây, nữ ca sĩ bất ngờ xuất hiện trong chương trình Duyên Phận. Đáng nói, đây cũng là lần hiếm hoi cô chia sẻ với netizen về những biến cố lớn trong cuộc đời của mình." ,"PostedDate":"22/07/2021"},
+   {"id": 3 ,"Title" : "Hàng nghìn người từ TP.HCM đổ về quê tránh dịch bằng xe máy" , "Image" : "", "Brief" : "Mỗi ngày có hàng trăm người từ các tỉnh phía Nam đi xe máy, ô tô cá nhân về Quảng Ngãi tránh dịch.", "Contetnt": "Những ngày qua, khi nhiều tỉnh phía Nam bùng phát dịch và thực hiện giãn cách xã hội theo Chỉ thị 16 của Thủ tướng Chính phủ, lượng người đổ về Quảng NTP.HCM… qua chốt kiểm soát dịch tại đèo Bình Đê (giáp ranh giữa tỉnh Bình Định và Quảng Ngãi), vào địa phận Quảng Ngãi." ,"PostedDate":"22/07/2021"},
+   {"id": 4 ,"Title" : "HCDC: Dịch Covid-19 tại TP.HCM chưa đạt đỉnh" , "Image" : "", "Brief" : "Theo HCDC, số ca dương tính mới còn cao, thành phố vẫn chưa đạt đỉnh dịch và có thể diễn biến phức tạp trong vài ngày tới. Mặc dù diễn biến phức tạp, TP.HCM đã ghi nhận một số tín hiệu đáng mừng về dịch bệnh, đó là không phát sinh ổ dịch mới.", "Contetnt": "Trung tn địa bàn trong đợt dịch tt hiện vẫn còn cao, thành phố vẫn chưa đạt đỉnh dịch và có thể diễn biến phức tạp trong vài ngày tới. Mặc dù diễn biến phức tạp, TP.HCM đã ghi nhận một số tín hiệu đáng mừng về dịch bệnh, đó là không phát sinh ổ dịch mới." ,"PostedDate":"22/07/2021"},
+   {"id": 5 ,"Title" : "Hưng Yên thêm 2 ca dương tính sau 6 lần xét nghiệm" , "Image" : "", "Brief" : "Hai trường hợp này ở Hưng Yên là F1 của bệnh nhân N.T.P được cách ly tập trung tại Đại học Thủy lợi, xét nghiệm lần 6 cho kết quả dương tính với SARS-CoV-2.", "Contetnt": "2 ca dương tính với SARS-CoV-2 mới được ghi nhận tại Hưng Yên sáng 22/7 là anh Đ.V.T, sy lợi, xét nghiệm lần 6 cho ay, Hưng Yên ghi nhận 219 ca mắc COVID-19.Ngoài những trường hợp được phát hiện dương tính ở trong khu cách ly, hiện ở tỉnh Hưng Yên đã ghi nhận trở lại những ca mắc trong cộng đồng., chống dịch COVID-19 tỉnh đã họp trực tuyến với các địa phương chuẩn bị các kịch bản ứng phó với dịch ở mức độ cao nhất." ,"PostedDate":"22/07/2021"},
+   {"id": 6 ,"Title" : "Ảnh: Cận cảnh quy trình gia công, đóng ống vaccine Sputnik V tại Việt Nam" , "Image" : "", "Brief" : "Lô vaccine Sputnik V đầu tiê đóng ống vaccine đã bắt đầu từ 3 tuần trước.", "Contetnt": " tinh từ túi bán thành phẩm được chuyển từ Nga về. Mỗi lọ chứa được 3ml vaccine, 5 liều, mỗi liều 0,5ml." ,"PostedDate":"22/07/2021"},
+   {"id": 7 ,"Title" : "Cãi nhau với vợ, chồng xả khí gas đốt ngôi nhà gỗ trị giá nửa tỷ đồng" , "Image" : "", "Brief" : "Theo thông tin ban đầu, do bực tức trong  giá khoảng 500 triệu đồng.", "Contetnt": " UBND xã sau khi nhận được tin, lực lượng chức năng địa phương đã phối hợp cùng bà con đến dập đám cháy và tiến hành di chuyển tài sản. Do ngôi nhà được làm bằng gỗ nên rất bắt lửa, gần 2 giờ sau đám cháy mới được khống chế.Theo vị lãnh đạo cho hay,  của gia đình." ,"PostedDate":"22/04/2021"},
+   {"id": 8 ,"Title" : "Một gia đình 3 người về từ TP.HCM vội vã lên xe đi Hà Nội để trốn cách ly" , "Image" : "", "Brief" : "3 người trong gia đình từ TP.HCM về quê ở tỉnh Thái Nguyên nhưng khi đang được yêu cầu làm thủ tục cách ly tập trung thì 3 người này lái xe ôtô bỏ đi, hiện lực lượng chức năng chưa liên lạc lại được.", "Contetnt": "Chiều 21/7, trao đổi với ập trung để phòng, chống dịch Covid-19.UBND TP. Sông Công (tỉnh Thái Nguyên) cũng đã có báo cđịa phương ở xã Tân Quang (TP. Sông Công)  vùng " ,"PostedDate":"21/07/2021"},
+   {"id": 9 ,"Title" : "Công an vào cuộc xác minh vụ người đàn ông đạp đổ bàn xét nghiệm của nhân viên y tế ở TP. HCM" , "Image" : "", "Brief" : "Theo nội dung đoạn clip được cho xảy ra tại TP.HCM, một người đàn ông mặc trang phục khá lịch sự đến vị trí làm việc này. ", "Contetnt": "Nviên y tế đang tiến hành lấy mẫu xét nghiệm cho người dân thì người đàn ông o trên đó hay không." ,"PostedDate":" 22/07/2021"}
+  ]
+  
 }
